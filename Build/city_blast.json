@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "enca-unity",
+"productVersion": "1.0",
+"dataUrl": "city_blast.data.unityweb",
+"wasmCodeUrl": "city_blast.wasm.code.unityweb",
+"wasmFrameworkUrl": "city_blast.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
